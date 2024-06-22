@@ -1,4 +1,4 @@
-**TMDB Project**
+**TMDB EDA Project**
 
 Programmatic Data Wrangling Project for the _Digital Futures Academy_.  It was a project conducted in a day, including the notebook itself and presentation of key insights.
 
