@@ -8,7 +8,7 @@ Insights were drawn on the correlation between movie budget and revenue generate
 
 _Here's a quick guide on how to navigate this rep:_
 
-There are two folders:
+There are two main files:
 
-- Code: Contains one file of python code, detailing the entire EDA process.
-- Data: Contains one .csv file on TMBD.
+- one file of python code, detailing the entire EDA process.
+- one .csv file on TMBD.
